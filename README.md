@@ -9,9 +9,9 @@
   <p><i>Веб-разработчик из Москвы</i></p>
   
   <p>
-    <a href="https://t.me/Duelio"><img src="https://img.shields.io/badge/-Telegram-181717?style=flat-square&logo=telegram&logoColor=white&color=800020" alt="Telegram"></a>&nbsp;
-    <a href="mailto:kotiru2010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-181717?style=flat-square&logo=gmail&logoColor=white&color=800020" alt="Gmail"></a>&nbsp;
-    <a href="tel:+79165282103"><img src="https://img.shields.io/badge/-Phone-181717?style=flat-square&logo=phone&logoColor=white&color=800020" alt="Phone"></a>
+    <a href="https://t.me/Duelio"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=800020" alt="Telegram"></a>&nbsp;
+    <a href="mailto:kotiru2010@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=800020" alt="Gmail"></a>&nbsp;
+    <a href="tel:+79165282103"><img src="https://img.shields.io/badge/Phone-0d1117?style=for-the-badge&logo=phone&logoColor=800020" alt="Phone"></a>
   </p>
 </div>
 
@@ -25,9 +25,10 @@
       
       <h3>🛠️ Мой стек</h3>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <!-- Аккуратные иконки без "плашек" -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" alt="CSS3" title="CSS3"/>&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript" title="JavaScript"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -46,7 +47,7 @@
 
 <br/>
 
-<!-- Кастомный блок статистики (без виджетов, только текст) -->
+<!-- Кастомный блок статистики -->
 <div align="center">
   <table border="0" cellpadding="15" cellspacing="0" style="background-color: #0d1117; border: 1px solid #800020; border-radius: 10px;">
     <tr>
