@@ -1,61 +1,69 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=150&section=header&text=Hello%20World!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
-  
-  <h1>Привет, я Екатерина 👋</h1>
-  <h3>Веб-разработчик из Москвы</h3>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=800020&height=120&section=header&text=ekaterina&fontSize=50&fontAlignY=50&animation=fadeIn&fontColor=ffffff&desc=Web%20Developer&descAlignY=70&descSize=18" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>Привет, я Екатерина 👋</h2>
+  <p><i>Веб-разработчик из Москвы</i></p>
   
   <p>
-    <a href="https://t.me/Duelio"><img src="https://img.shields.io/badge/Telegram-800020?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-    <a href="mailto:kotiru2010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="tel:+79165282103"><img src="https://img.shields.io/badge/Phone-333333?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"></a>
+    <a href="https://t.me/Duelio"><img src="https://img.shields.io/badge/-Telegram-181717?style=flat-square&logo=telegram&logoColor=white&color=800020" alt="Telegram"></a>&nbsp;
+    <a href="mailto:kotiru2010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-181717?style=flat-square&logo=gmail&logoColor=white&color=800020" alt="Gmail"></a>&nbsp;
+    <a href="tel:+79165282103"><img src="https://img.shields.io/badge/-Phone-181717?style=flat-square&logo=phone&logoColor=white&color=800020" alt="Phone"></a>
   </p>
 </div>
 
 <br/>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
       <h3>👩‍💻 Обо мне</h3>
-      <p>Сейчас я погружаюсь в мир веб-разработки. Люблю создавать удобные и красивые интерфейсы, учиться новому и решать сложные задачи.</p>
-      <p>Когда я не пишу код, вы можете найти меня на конюшне, в мире Дикого Запада или на кухне за приготовлением чего-нибудь вкусного.</p>
+      <p style="color: #c9d1d9;">Погружаюсь в мир веб-разработки. Создаю удобные интерфейсы и решаю сложные задачи. Вне кода — конный спорт, RDR2 и кулинария.</p>
       
       <h3>🛠️ Мой стек</h3>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>✨ Увлечения</h3>
-      <ul>
-        <li>🏇 <b>Верховая езда</b> — отличный способ перезагрузиться.</li>
-        <li>🎮 <b>Red Dead Redemption 2</b> — лучшая игра про приключения.</li>
-        <li>🍳 <b>Кулинария</b> — люблю экспериментировать на кухне.</li>
-      </ul>
+      <p style="color: #c9d1d9;">
+        🏇 Верховая езда<br/>
+        🎮 Red Dead Redemption 2<br/>
+        🍳 Готовка
+      </p>
       
       <h3>📍 Локация</h3>
-      <p>Россия, Москва</p>
+      <p style="color: #c9d1d9;">Россия, Москва</p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Блок статистики (Темная тема с бордовым акцентом) -->
+<!-- Кастомный блок статистики (без виджетов, только текст) -->
 <div align="center">
-  <h3>📊 Моя статистика</h3>
-  <a href="https://github.com/[ТВОЙ_НИК]">
-    <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИК]&show_icons=true&theme=dark&title_color=800020&icon_color=800020&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" alt="GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/[ТВОЙ_НИК]">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_НИК]&layout=compact&theme=dark&title_color=800020&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" alt="Top Languages" height="180" />
-  </a>
+  <table border="0" cellpadding="15" cellspacing="0" style="background-color: #0d1117; border: 1px solid #800020; border-radius: 10px;">
+    <tr>
+      <td align="center">
+        <h4 style="color: #800020; margin: 0;">GitHub Stats</h4>
+        <p style="color: #c9d1d9; margin: 5px 0 0 0;">Член сообщества с 2023 года</p>
+      </td>
+      <td align="center" style="border-left: 1px solid #800020;">
+        <h4 style="color: #800020; margin: 0;">Main Stack</h4>
+        <p style="color: #c9d1d9; margin: 5px 0 0 0;">Frontend / Web</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=80&section=footer" width="100%" />
 </div>
